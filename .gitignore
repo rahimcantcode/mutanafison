@@ -1,0 +1,13 @@
+.DS_Store
+
+# Xcode
+DerivedData/
+*.xcworkspace/xcuserdata/
+*.xcuserdatad/
+*.xcuserstate
+
+# SwiftPM
+.build/
+
+# Node legacy artifacts
+legacy/web-prototype/node_modules/
